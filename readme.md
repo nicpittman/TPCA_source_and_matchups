@@ -48,7 +48,7 @@ email: nic.pittman@utas.edu.au
 
 - In situ fluorometric data has been compiled from three unique sources [1,2,3]
 - Each sensor has a different number of matchups due to time period in orbit, different orbits, cloud cover and quality control.
-- These matchup files are those used in [6]; 2 day radius and 1 pixel. This results in a total of 5 days (day, day, observation, day, day) and a grid of 9 pixels, with the observation located in the centre pixel. The matchups provided are the median of these 45 pixels. For example in space:
+- These matchup files are those used in [6]; 2 day radius and 1 pixel. This results in a total of 5 days (day, day, observation, day, day) and a grid of 9 pixels, with the observation located in the centre pixel. The matchups provided are the mean of these 45 pixels. For example in space:
 
 | Sat  |  Sat   | Sat  |
 | ---- | :----: | ---- |
