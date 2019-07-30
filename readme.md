@@ -1,4 +1,4 @@
-## Tropical Pacific Chlorophyll Algorithm (TPCA): Source code and matcups (Pittman et al., 2019) 
+## Tropical Pacific Chlorophyll Algorithm (TPCA): Source code and matchups (Pittman et al., 2019) 
 
 ### Contact:
 
