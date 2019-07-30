@@ -13,7 +13,7 @@ email: nic.pittman@utas.edu.au
 - chl_tpca_algorithms.py
   - Set Python functions to process Rrs data from SeaWiFS, MODIS-Aqua into the TPCA [6] algorithm, built upon CI [4] and OCx [5]. Functions include:
     - blended_chl (Linear blending function [4,6])
-    - calculcate_chl_ocx (Calculate Chl OCx [4, 5, 6])
+    - calculate_chl_ocx (Calculate Chl OCx [4, 5, 6])
     - calculate_chl_ci (Calculate Chl CI [4,6])
     - calculate_seawifs_chl (Calculate TPCA chl for SeaWiFS with Rrs443, Rrs490, Rrs510, Rrs555, Rrs670)
     - calcuate_modis_chl (Calculate TPCA chl for MODIS-Aqua with Rrs443, Rrs488, Rrs547, Rrs667)
