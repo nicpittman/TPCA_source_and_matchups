@@ -30,7 +30,7 @@ Sensor specific functions include:
 References:
     Tropical Pacific Chlorophyll Algorithm (2019JC015498)
     'An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean'
-    Pittman, N., Strutton, P., Matear, R., Johnson, R., Chavez, F., (2019)
+    Pittman, N., Strutton, P., Matear, R., Johnson, R., (2019)
     Submitted: Journal of Geophysical Research: Oceans
     
     CI and blending window
