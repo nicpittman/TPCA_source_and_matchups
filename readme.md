@@ -7,7 +7,7 @@ Institute of Marine and Antarctic Studies (IMAS), University of Tasmania, Austra
 Australian Research Council Center of Excellence for Climate Extremes (CLEX)
 
 email: nic.pittman@utas.edu.au
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3538213.svg)](https://doi.org/10.5281/zenodo.3538213)
 ### Contents
 
 - chl_tpca_algorithms.py
