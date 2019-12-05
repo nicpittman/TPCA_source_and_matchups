@@ -1,5 +1,7 @@
 ## Tropical Pacific Chlorophyll Algorithm (TPCA): Source code and matchups (Pittman et al., 2019) 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3538213.svg)](https://doi.org/10.5281/zenodo.3538213)
+
 ### Contact:
 
 Nicholas Pittman, PhD Candidate: Biogeochemistry & Satellite remote sensing. 
@@ -7,7 +9,7 @@ Institute of Marine and Antarctic Studies (IMAS), University of Tasmania, Austra
 Australian Research Council Center of Excellence for Climate Extremes (CLEX)
 
 email: nic.pittman@utas.edu.au
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3538213.svg)](https://doi.org/10.5281/zenodo.3538213)
+
 ### Contents
 
 - chl_tpca_algorithms.py
